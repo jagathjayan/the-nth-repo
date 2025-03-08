@@ -1,2 +1,7 @@
 my name is jagath
+<<<<<<< HEAD
 haha jaggu
+=======
+19 yr old 
+short name jaggu
+>>>>>>> 4c4df1b222b6cd2da386e0de7a62e33a574c1457
